@@ -1,450 +1,446 @@
 [
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p>To this day, nobody knows precisely what it was that caused it. Perhaps the power that had been spent lured another entity out of the void, or it might be that it simply awoke another divine entity from its slumber. Some even claim that in some mysterious way you ended up wasting your time reading all of this.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p>To this day, nobody knows precisely what it was that caused it. Perhaps the power that had been spent lured another entity out of the void, or it might be that it simply awoke another divine entity from its slumber. Some even claim that in some mysterious way you ended up wasting your time reading all of this.</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Every 60 seconds somewhere in the world one minute passes.<br />The amount of time to read this is probably much shorter, but who knows? Maybe you are a slow reader. Anyway, either you are bored or login is taking way more than it should.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Every 60 seconds somewhere in the world one minute passes.<br />The amount of time to read this is probably much shorter, but who knows? Maybe you are a slow reader. Anyway, either you are bored or login is taking way more than it should.</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The world is flat (in game). If you are doubting it, launch the mapeditor. Round map would be weird to play on anyway. Like how would you connect the sides?</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The world is flat (in game). If you are doubting it, launch the mapeditor. Round map would be weird to play on anyway. Like how would you connect the sides?</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Most worlds built on Evolutions datapack are extinct by now. Talking about natural selection.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Most worlds built on Evolutions datapack are extinct by now. Talking about natural selection.</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The summer update known as 8.60 launched on June 30 2010. Feeling old yet?</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The summer update known as 8.60 launched on June 30 2010. Feeling old yet?</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The development of first OTS engine started in 2002. In November 2003 OTserv 2.7 makes its way to sourceforge.<br /><br /></p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The development of first OTS engine started in 2002. In November 2003 OTserv 2.7 makes its way to sourceforge.<br /><br /></p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />OT servers had only one floor until 2005. This is also the year when the servers explode in popularity and first server lists emerge.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />OT servers had only one floor until 2005. This is also the year when the servers explode in popularity and first server lists emerge.</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The OTBM format developed by Simone, Spin and Primer debuted oficially in November 2005. Previously server maps were in XML.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The OTBM format developed by Simone, Spin and Primer debuted oficially in November 2005. Previously server maps were in XML.</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />In February 2007 a new engine - The Forgotten Server got released by Talaturen (now Mark). Three months later he launched OTLand.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />In February 2007 a new engine - The Forgotten Server got released by Talaturen (now Mark). Three months later he launched OTLand.</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The first version of Remere's map editor had its release in December 2007.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The first version of Remere's map editor had its release in December 2007.</p></td></tr></tbody></table>"
   },
   {
     "title": "Genesis",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />2005 was the most intense year for OT development.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_lore.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />2005 was the most intense year for OT development.</p></td></tr></tbody></table>"
   },
   {
     "title": "Optional PvP",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/optionalpvp.gif\" width=\"48\" height=\"48\" /></p></td><td><p><br />On Optional PvP game worlds, player killing is only possible within the scope of a guild war.<br />Therefore no one plays this kind of servers. Why would you play npvp anyway?</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/optionalpvp.gif\" width=\"48\" height=\"48\" /></p></td><td><p><br />On Optional PvP game worlds, player killing is only possible within the scope of a guild war.<br />Therefore no one plays this kind of servers. Why would you play npvp anyway?</p></td></tr></tbody></table>"
   },
   {
     "title": "Open PvP",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/open_pvp.gif\" width=\"48\" height=\"48\" /></p></td><td><p><br />On Open PvP game worlds you can kill other players, but actually no. Sometimes you can walk over magic walls, sometimes you don't. Sometimes you get white skull for no reason at all. Crazy, huh?</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/open_pvp.gif\" width=\"48\" height=\"48\" /></p></td><td><p><br />On Open PvP game worlds you can kill other players, but actually no. Sometimes you can walk over magic walls, sometimes you don't. Sometimes you get white skull for no reason at all. Crazy, huh?</p></td></tr></tbody></table>"
   },
   {
     "title": "Hardcore PvP",
-    "richText": "<table style=\"width: 468px;\"><tbody><tr><td style=\"width: 53px;\"><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/option_server_pvp_type_hardcore.gif\" width=\"48\" height=\"48\" /></p></td><td style=\"width: 401px;\"><p><br />On Hardcore PvP worlds there are no restrictions whatsoever on player killing. Unfortunately someone thought that it will be a good idea to remove exp gain from killing other players.</p></td></tr></tbody></table>"
+    "richText": "<table style=\"width: 468px;\"><tbody><tr><td style=\"width: 53px;\"><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/option_server_pvp_type_hardcore.gif\" width=\"48\" height=\"48\" /></p></td><td style=\"width: 401px;\"><p><br />On Hardcore PvP worlds there are no restrictions whatsoever on player killing. Unfortunately someone thought that it will be a good idea to remove exp gain from killing other players.</p></td></tr></tbody></table>"
   },
   {
     "title": "Retro Open PvP",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/retropvpicon.png\" width=\"48\" height=\"48\" /></p></td><td><p><br />The game worlds called Retro Open PvP game worlds are merely a shadow of what pvp game worlds used to be.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/retropvpicon.png\" width=\"48\" height=\"48\" /></p></td><td><p><br />The game worlds called Retro Open PvP game worlds are merely a shadow of what pvp game worlds used to be.</p></td></tr></tbody></table>"
   },
   {
     "title": "Retro Hardcore PvP",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/retrohardcorepvpicon.png\" width=\"48\" height=\"48\" /></p></td><td><p><br />They call it Retro Hardcore PvP, as if PvP-Enforced was a bad name.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/retrohardcorepvpicon.png\" width=\"48\" height=\"48\" /></p></td><td><p><br />They call it Retro Hardcore PvP, as if PvP-Enforced was a bad name.</p></td></tr></tbody></table>"
   },
   {
     "title": "XP Boost",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/motd_xpboost.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />XP boosts increase your experience points your character gains from hunting for a certain time limit. And your spendings on this game.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/motd_xpboost.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />XP boosts increase your experience points your character gains from hunting for a certain time limit. And your spendings on this game.</p></td></tr></tbody></table>"
   },
   {
     "title": "Express Character World Transfer",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/motd_worldcex.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />If you have already transferred your character to another game world in the last six months, just kidding. OT servers aren't that advanced yet.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/motd_worldcex.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />If you have already transferred your character to another game world in the last six months, just kidding. OT servers aren't that advanced yet.</p></td></tr></tbody></table>"
   },
   {
     "title": "Gold Pouch",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/motd_purse.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />Story time: Back when I was new to this game and there was no shop window yet, I tried to buy that brown container with 20 slots. For some reason I kept getting bags, for 8 gold. Apparently, the brown container with 20 slots name was not bagpack.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/motd_purse.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />Story time: Back when I was new to this game and there was no shop window yet, I tried to buy that brown container with 20 slots. For some reason I kept getting bags, for 8 gold. Apparently, the brown container with 20 slots name was not bagpack.</p></td></tr></tbody></table>"
   },
   {
     "title": "Gold Converter",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/motd_coincon.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />A Gold Converter comes in handy when you need capacity and your bags are packed with gold. <br />As if you couldn't just click on a stack of coins to change them.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/motd_coincon.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />A Gold Converter comes in handy when you need capacity and your bags are packed with gold. <br />As if you couldn't just click on a stack of coins to change them.</p></td></tr></tbody></table>"
   },
   {
     "title": "Temple Teleport",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><br /><img src=\"https://static.tibia.com/images/news/templeteleport.png\" width=\"44\" height=\"39\" /></p></td><td><p><br /><br />Teleporting to your hometown used to be bannable if you got caught by a GM. Now it's a store offer.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><br /><img src=\"https://otacademy.github.io/hints/templeteleport.png\" width=\"44\" height=\"39\" /></p></td><td><p><br /><br />Teleporting to your hometown used to be bannable if you got caught by a GM. Now it's a store offer.</p></td></tr></tbody></table>"
   },
   {
     "title": "Prey Wildcard",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/preywildcard.png\" width=\"45\" height=\"48\" /></p></td><td><p><br />A prey is an animal that is hunted by another for food. To pray means addressing a prayer to a God or another deity. Have you prayed for a good prey today?</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/preywildcard.png\" width=\"45\" height=\"48\" /></p></td><td><p><br />A prey is an animal that is hunted by another for food. To pray means addressing a prayer to a God or another deity. Have you prayed for a good prey today?</p></td></tr></tbody></table>"
   },
   {
     "title": "Magic Gold Converter",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><br /><img src=\"https://static.tibia.com/images/news/magicgoldconverter.png\" width=\"25\" height=\"32\" /></p></td><td><p><br />If you ever feel dumb, just remember that some people spend real money in order to buy a gold converter that is more expensive than the gold you will get out of it.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><br /><img src=\"https://otacademy.github.io/hints/magicgoldconverter.png\" width=\"25\" height=\"32\" /></p></td><td><p><br />If you ever feel dumb, just remember that some people spend real money in order to buy a gold converter that is more expensive than the gold you will get out of it.</p></td></tr></tbody></table>"
   },
   {
     "title": "Character Sex Change",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/motd_sexchange.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />At some point you probably had a thought regarding what would the gameplay be like if you made a female character. Everyone did.<br /><br /></p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/motd_sexchange.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />At some point you probably had a thought regarding what would the gameplay be like if you made a female character. Everyone did.<br /><br /></p></td></tr></tbody></table>"
   },
   {
     "title": "Tibia Coins",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/motd_tc.png\" width=\"128\" height=\"64\" /></p></td><td><p>There are two hundred coins in this picture. If you do not believe this, you can count them yourself.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/motd_tc.png\" width=\"128\" height=\"64\" /></p></td><td><p>There are two hundred coins in this picture. If you do not believe this, you can count them yourself.</p></td></tr></tbody></table>"
   },
   {
     "title": "Blessings",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/product_blessing_all.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />If I had a gold coin for every tile walked to rebuy blessings after dying, I would probably have like 1k gold because I buy them at the inquisition headquarters. Here are some pieces of paper with cool pictures.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/product_blessing_all.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />If I had a gold coin for every tile walked to rebuy blessings after dying, I would probably have like 1k gold because I buy them at the inquisition headquarters. Here are some pieces of paper with cool pictures.</p></td></tr></tbody></table>"
   },
   {
     "title": "Store Categories",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/category_newproducts.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />In case you haven't noticed yet despite very intense efforts from the game creators, this game has in-game store and you can probably exchange your virtual currency for virtual goods. Just look at that giant button below your equipment. Neat, huh?</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/category_newproducts.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />In case you haven't noticed yet despite very intense efforts from the game creators, this game has in-game store and you can probably exchange your virtual currency for virtual goods. Just look at that giant button below your equipment. Neat, huh?</p></td></tr></tbody></table>"
   },
   {
     "title": "Twist of Fate",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/motd_tof.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />Characters that die in a PvP fight will have names of their killers listed in their death lists.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/motd_tof.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />Characters that die in a PvP fight will have names of their killers listed in their death lists.</p></td></tr></tbody></table>"
   },
   {
     "title": "Death Redemption",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/product_blessing_death_red.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />Im case you die, the game offers extra ways of spending your money. The free to play model can get really annoying sometimes.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/product_blessing_death_red.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />Im case you die, the game offers extra ways of spending your money. The free to play model can get really annoying sometimes.</p></td></tr></tbody></table>"
   },
   {
     "title": "Potion Casks",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/ultimatemanapotioncask.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />After all these years, the technology is finally here! You can finally refill your potions once you drink them. Of course they had to monetize it. Like why wouldn't they, right?</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/ultimatemanapotioncask.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />After all these years, the technology is finally here! You can finally refill your potions once you drink them. Of course they had to monetize it. Like why wouldn't they, right?</p></td></tr></tbody></table>"
   },
   {
     "title": "Potion Keks",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/ultimatemanapotionkeg.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />Potion keks can be purchased in the Store kekw</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/ultimatemanapotionkeg.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />Potion keks can be purchased in the Store kekw</p></td></tr></tbody></table>"
   },
   {
     "title": "Store Inbox",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/randomhint_storeinbox.png\" width=\"112\" height=\"76\" /></p></td><td><p><br />At some point some items had to be locked from trading. Someone really hated the possibility of moving some items between characters.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/randomhint_storeinbox.png\" width=\"112\" height=\"76\" /></p></td><td><p><br />At some point some items had to be locked from trading. Someone really hated the possibility of moving some items between characters.</p></td></tr></tbody></table>"
   },
   {
     "title": "Security Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Don't be dumb. Using qwer or 1234 in your password is a terrible idea.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Don't be dumb. Using qwer or 1234 in your password is a terrible idea.</p></td></tr></tbody></table>"
   },
   {
     "title": "Security Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />I would recommend you using two factor authentication in order to improve your account security, but knowing the reality, it probably doesn't work on the private server you are playing anyway.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />I would recommend you using two factor authentication in order to improve your account security, but knowing the reality, it probably doesn't work on the private server you are playing anyway.</p></td></tr></tbody></table>"
   },
   {
     "title": "Security Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />This is a very nice looking chest. I wonder if they can be found in game.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />This is a very nice looking chest. I wonder if they can be found in game.</p></td></tr></tbody></table>"
   },
   {
     "title": "Security Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Account sharing is usually a bad idea. If several people have access to one account, it's easier to get hacked and harder to find the culprit.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Account sharing is usually a bad idea. If several people have access to one account, it's easier to get hacked and harder to find the culprit.</p></td></tr></tbody></table>"
   },
   {
     "title": "Security Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Some server owners can not be trusted. Never use identical email/password combination on more than one server.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Some server owners can not be trusted. Never use identical email/password combination on more than one server.</p></td></tr></tbody></table>"
   },
   {
     "title": "Security Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Do not pay 10k to a pker. They'll kill you anyway. Learned it hard way.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Do not pay 10k to a pker. They'll kill you anyway. Learned it hard way.</p></td></tr></tbody></table>"
   },
   {
     "title": "Security Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Other people can hear you mumbling your password.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_security.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Other people can hear you mumbling your password.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The widget for unjustified points in the Tibia client gives an overview of how unnecessarily complicated the PvP system had became.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The widget for unjustified points in the Tibia client gives an overview of how unnecessarily complicated the PvP system had became.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />You can 'hide' your character via your account management page. This assuming the website supports this feature and it works properly.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />You can 'hide' your character via your account management page. This assuming the website supports this feature and it works properly.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The statement below is true.<br />The statement above is false.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The statement below is true.<br />The statement above is false.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />In the guild activity log, each guild member can view important data. Just kidding, this feature probably wasn't even implemented yet.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />In the guild activity log, each guild member can view important data. Just kidding, this feature probably wasn't even implemented yet.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you enable antialiasing in your graphics options, your game will have its graphics antialiased. Unexpected.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you enable antialiasing in your graphics options, your game will have its graphics antialiased. Unexpected.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Opening four panels with a lot of containers and three analyzers will make you look like a skilled player.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Opening four panels with a lot of containers and three analyzers will make you look like a skilled player.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />As the updates says - you give a poor man a fish and you feed him for a day. You teach him to a... to fish, you give him, you give him a... nononononono.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />As the updates says - you give a poor man a fish and you feed him for a day. You teach him to a... to fish, you give him, you give him a... nononononono.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />There are shops that sell items. You can find them in the city.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />There are shops that sell items. You can find them in the city.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Connecting to this server takes so long you started reading these messages.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Connecting to this server takes so long you started reading these messages.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you are unable to afford food somehow despite gold coins being so easy to obtain, you can waste two hours by making a bread.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you are unable to afford food somehow despite gold coins being so easy to obtain, you can waste two hours by making a bread.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you are on a ship and the exit happens to be blocked, just use gnomebase hub, fool. Do not bother asking the captain for a kick. It probably doesn't work.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you are on a ship and the exit happens to be blocked, just use gnomebase hub, fool. Do not bother asking the captain for a kick. It probably doesn't work.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Nobody can survive without breathing! There is nothing worth dying for in sunken caves.<br />It is very easy to get lost and run out of air in these.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Nobody can survive without breathing! There is nothing worth dying for in sunken caves.<br />It is very easy to get lost and run out of air in these.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />There are hundreds of temples and other sacral places located on hundreds of servers, yet it is rarely explained which religion they belong to.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />There are hundreds of temples and other sacral places located on hundreds of servers, yet it is rarely explained which religion they belong to.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you inspect another character, expect them to ask you to get inspected back.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you inspect another character, expect them to ask you to get inspected back.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Players can form groups called 'parties'. You will have certain advantages this way. Just please avoid going political, it's just a game.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Players can form groups called 'parties'. You will have certain advantages this way. Just please avoid going political, it's just a game.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Place yourself in front of a door of your house and say 'aleta grav' to confuse your neighbours.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Place yourself in front of a door of your house and say 'aleta grav' to confuse your neighbours.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />You can kick a character out of your home if you say 'alana sio' followed by the character name.<br />It is not a polite way to get rid of a guest though. Try asking nicely first.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />You can kick a character out of your home if you say 'alana sio' followed by the character name.<br />It is not a polite way to get rid of a guest though. Try asking nicely first.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Due to performance issues, regular expressions other than * are not supported in OT invite lists for houses.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Due to performance issues, regular expressions other than * are not supported in OT invite lists for houses.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you played through a patch in which owning multiple houses per account became possible, you witnessed the destruction of the housing market yourself. Talking about immersion in games.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you played through a patch in which owning multiple houses per account became possible, you witnessed the destruction of the housing market yourself. Talking about immersion in games.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />At some point in time, some guilds became so powerful that they started dominating multiple servers.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />At some point in time, some guilds became so powerful that they started dominating multiple servers.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />It used to be much much easier to found a new guild back in 2005. All you had to do was to find the guild master.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />It used to be much much easier to found a new guild back in 2005. All you had to do was to find the guild master.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Game servers are not airports. If you get angry and decide to quit, there is no need to announce your departure.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Game servers are not airports. If you get angry and decide to quit, there is no need to announce your departure.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you have named your hotkey presets like your characters and have checked the option 'Auto-Switch Hotkey Preset', you have figured out how the feature works. To be honest, I had no idea until I read this tip.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you have named your hotkey presets like your characters and have checked the option 'Auto-Switch Hotkey Preset', you have figured out how the feature works. To be honest, I had no idea until I read this tip.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />You won't waste your hunting supplies if you don't bring any to your hunt.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />You won't waste your hunting supplies if you don't bring any to your hunt.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />And the Scrolls have foretold, of black wings in the cold, That when brothers wage war come unfurl... wait, wrong game, nevermind.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />And the Scrolls have foretold, of black wings in the cold, That when brothers wage war come unfurl... wait, wrong game, nevermind.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Baiak servers are just YurOTS under a different name.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Baiak servers are just YurOTS under a different name.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The counter for your stamina indicates the time that is left until you have to buy next stamina doll.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The counter for your stamina indicates the time that is left until you have to buy next stamina doll.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />For some reason, it took over 25 years to add sound to this game.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />For some reason, it took over 25 years to add sound to this game.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Consider relogging when visiting protection zones. It saves your character data in case of server crash.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Consider relogging when visiting protection zones. It saves your character data in case of server crash.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />There are no servers built on Rookgaard map at the time of writing this tip.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />There are no servers built on Rookgaard map at the time of writing this tip.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Kazordoon has a unique transportation system. As If they couldn't just use teleports like everyone else. Also their steamboat is terribly awful to reach.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Kazordoon has a unique transportation system. As If they couldn't just use teleports like everyone else. Also their steamboat is terribly awful to reach.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Do not simply throw away your empty flasks.<br />Each flask dropped on the ground makes map clean take slightly longer.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Do not simply throw away your empty flasks.<br />Each flask dropped on the ground makes map clean take slightly longer.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Outnumber or get outnumbered.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Outnumber or get outnumbered.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Even though there is a special underwater area, it is not possible to move on water fields. The boots of waterwalking were a lie all along.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Even though there is a special underwater area, it is not possible to move on water fields. The boots of waterwalking were a lie all along.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Some cities are completely insane. Buildings with burning walls, up to five portals pretty much next to each other and don't even get me started on temples connected to warehouses.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Some cities are completely insane. Buildings with burning walls, up to five portals pretty much next to each other and don't even get me started on temples connected to warehouses.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />You can have nine action bars in total. That is 450 slots for your custom actions.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />You can have nine action bars in total. That is 450 slots for your custom actions.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />You can see how well-organized the player is solely by looking at his Action bars.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />You can see how well-organized the player is solely by looking at his Action bars.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you are a free account player, the game will make sure you will get the least amount of fun possible.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you are a free account player, the game will make sure you will get the least amount of fun possible.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Do not try to move house walls with cheats. It doesn't work anymore.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Do not try to move house walls with cheats. It doesn't work anymore.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Press Alt+F4 to show the exit dialog in the game window.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Press Alt+F4 to show the exit dialog in the game window.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />'Quick Login' allows logging in before the game assets load.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />'Quick Login' allows logging in before the game assets load.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Everything is affordable if you have enough tc.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Everything is affordable if you have enough tc.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Too many people queued up for your favourite hunting spot? Dominate the server and the spot will be yours.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Too many people queued up for your favourite hunting spot? Dominate the server and the spot will be yours.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Looking for a trash can in someone's house? Check under the sink.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Looking for a trash can in someone's house? Check under the sink.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If you upgrade item tier, you have to reassign the item on the action bar.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If you upgrade item tier, you have to reassign the item on the action bar.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If a vice leader leaves an existing guild to join another one, he will be a disappointment for his former guild mates.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If a vice leader leaves an existing guild to join another one, he will be a disappointment for his former guild mates.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If the server is no longer possible to login, chances are that the edition is over.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If the server is no longer possible to login, chances are that the edition is over.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Foxtails do not drop from foxes.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Foxtails do not drop from foxes.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Life is too short to play on a bugged server.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Life is too short to play on a bugged server.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The client may look like a mess at first, but you can remove a lot of UI elements you won't be using.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The client may look like a mess at first, but you can remove a lot of UI elements you won't be using.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If you ever feel useless, remember that some baiak servers have achievements system.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If you ever feel useless, remember that some baiak servers have achievements system.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The Supply Stash may be available in your server. Or not.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The Supply Stash may be available in your server. Or not.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />A software tester walks into a bar. Orders a beer, orders 2 beers, orders 0 beers, orders 999999999 beers, orders a lizard, orders -1 beers, orders qwertyuiop.<br /><br />A real customer walks into the bar and asks where the bathroom is. The bar goes up in flames.</p></td></tr></tbody></table>"
   },
   {
     "title": "Random Hint",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The Compendium could probably offer you a lot of information about the server you're playing, if only anyone knew how to set it up. </p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The Compendium could probably offer you a lot of information about the server you're playing, if only anyone knew how to set it up. </p></td></tr></tbody></table>"
   },
   {
     "title": "Store Outfit",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/mercenary.png\" width=\"51\" height=\"58\" /></p></td><td><p><br />The Mercenary carries a powerful, razor-sharp axe on his shoulders that effortlessly cuts through any armour and bone. Unless you buy this outfit on a mage character.</p></td></tr></tbody></table>"
-  },
-  {
-    "title": "Store Outfit",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><br /><img src=\"https://static.tibia.com/images/news/sinister_archer.png\" width=\"49\" height=\"39\" /></p></td><td><p><br />We ran out of ideas. Here is some outfit probably inspired by RA or something.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/mercenary.png\" width=\"51\" height=\"58\" /></p></td><td><p><br />The Mercenary carries a powerful, razor-sharp axe on his shoulders that effortlessly cuts through any armour and bone. Unless you buy this outfit on a mage character.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Check 'Stay Logged In for Session' to stay logged in. For session.<br />Otherwise, you will not stay logged in for session.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Check 'Stay Logged In for Session' to stay logged in. For session.<br />Otherwise, you will not stay logged in for session.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If 'Highlight Mouse Target' is enabled, the option is enabled and mouse target gets highlighted.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If 'Highlight Mouse Target' is enabled, the option is enabled and mouse target gets highlighted.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Enable 'Use Native Mouse Cursor' if you want to replace ugly client cursor with your uwu cute system cursor.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />Enable 'Use Native Mouse Cursor' if you want to replace ugly client cursor with your uwu cute system cursor.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p>Selecting a character will log you into game. Or not. Depends how many times you click.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p>Selecting a character will log you into game. Or not. Depends how many times you click.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Whenever you cast a spell, a new kitten is born somewhere.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Whenever you cast a spell, a new kitten is born somewhere.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The settings menu got way more complicated than it should. Fortunately you don't have to use it once you configure everything right.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />The settings menu got way more complicated than it should. Fortunately you don't have to use it once you configure everything right.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Advanced PvP options are not available because no one really liked them.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Advanced PvP options are not available because no one really liked them.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If you enable 'Press CTRL to Drag Complete Stacks', you will drag complete stacks when holding CTRL.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />If you enable 'Press CTRL to Drag Complete Stacks', you will drag complete stacks when holding CTRL.</p></td></tr></tbody></table>"
   },
   {
     "title": "General Game Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you open the Options menu for the first time, you will find yourself confused.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />If you open the Options menu for the first time, you will find yourself confused.</p></td></tr></tbody></table>"
   },
   {
     "title": "Messages Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Whenever you examine characters or items, the characters or items examine you back.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Whenever you examine characters or items, the characters or items examine you back.</p></td></tr></tbody></table>"
   },
   {
     "title": "Messages Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Whenever another character casts a spell, a new kitten is born somewhere as well.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Whenever another character casts a spell, a new kitten is born somewhere as well.</p></td></tr></tbody></table>"
   },
   {
     "title": "Messages Options",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Whenever you cast a spell, you will see the magic words in your game window.<br />'Please' and 'Thank You' are not spells.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Whenever you cast a spell, you will see the magic words in your game window.<br />'Please' and 'Thank You' are not spells.</p></td></tr></tbody></table>"
   },
   {
     "title": "Skullfrost",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://static.tibia.com/images/news/skullfrost.gif\" width=\"64\" height=\"64\" /></p></td><td><p><br />Guys looking like this have 100% chance of stealing your aggro.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/skullfrost.gif\" width=\"64\" height=\"64\" /></p></td><td><p><br />Guys looking like this have 100% chance of stealing your aggro.</p></td></tr></tbody></table>"
   },
   {
     "title": "Emberwing",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/emberwing.gif\" width=\"64\" height=\"64\" /></p></td><td><p><br />Paladins have coolest looking pets. Change my mind.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/emberwing.gif\" width=\"64\" height=\"64\" /></p></td><td><p><br />Paladins have coolest looking pets. Change my mind.</p></td></tr></tbody></table>"
   },
   {
     "title": "Grovebeast",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/grovebeast.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />No friends? No problem. Just summon one to tank damage for you.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/grovebeast.png\" width=\"64\" height=\"64\" /></p></td><td><p><br />No friends? No problem. Just summon one to tank damage for you.</p></td></tr></tbody></table>"
   },
   {
     "title": "Thundergiant",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://static.tibia.com/images/news/thundergiant.gif\" width=\"64\" height=\"64\" /></p></td><td><p><br />You're in a club and this guy slaps your GF's ass - what do?</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/thundergiant.gif\" width=\"64\" height=\"64\" /></p></td><td><p><br />You're in a club and this guy slaps your GF's ass - what do?</p></td></tr></tbody></table>"
   },
   {
     "title": "Store Mount",
-    "richText": "<table><tbody><tr><td><p style=\"margin-right: 8px;\"><br /><img src=\"https://static.tibia.com/images/news/armouredwarhorse.png\" width=\"51\" height=\"53\" /></p></td><td><p><br />The Armoured War Horse is a great choice for people who failed in life and never caught a free version of this mount on their own.</p></td></tr></tbody></table>"
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 8px;\"><br /><img src=\"https://otacademy.github.io/hints/armouredwarhorse.png\" width=\"51\" height=\"53\" /></p></td><td><p><br />The Armoured War Horse is a great choice for people who failed in life and never caught a free version of this mount on their own.</p></td></tr></tbody></table>"
   }
 ]
