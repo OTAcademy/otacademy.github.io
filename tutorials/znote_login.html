@@ -1,0 +1,33 @@
+<h2>How to set up webservice login for local testing with ZnoteAAC and XAMPP</h2>
+this tutorial assumes that you already have a databse for your tfs
+
+<ol>
+  <li>delete everything from /xampp/htdocs/ directory</li>
+  <li>Go to ZnoteAAC, to v2 branch on GitHub:
+  https://github.com/Znote/ZnoteAAC/tree/v2</li>
+
+    <li>code -> download zip</li>
+    <li>unzip everything, it should look like this:</li>
+  <img src="https://otacademy.github.io/tutorials/tutorial_webservice_1.png"/>
+
+    <li>open config.php</li>
+  <li>configure your mysql connection and webservice
+  (optional: if you do not want to configure PHP caching, you can set `'memory' => false`)</li>
+
+  <img src="https://otacademy.github.io/tutorials/tutorial_webservice_2.png"/>
+  <img src="https://otacademy.github.io/tutorials/tutorial_webservice_3.png"/>
+
+  <li>open login.php if you want to personalize it</li>
+
+  <li>start apache and mysql from xampp control panel</li>
+
+  <li>open http://localhost/phpmyadmin in browser</li>
+
+  <li>click on tfs database</li>
+
+  <li>click "import" on top bar</li>
+
+  <li>choose /htdocs/engine/database/znote_schema.sql and confirm with "import" button</li>
+
+  <li>restart your apache</li>
+</ol>
