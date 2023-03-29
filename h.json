@@ -372,6 +372,10 @@
     "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />The Compendium could probably offer you a lot of information about the server you're playing, if only anyone knew how to set it up. </p></td></tr></tbody></table>"
   },
   {
+    "title": "Random Hint",
+    "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://otacademy.github.io/hints/rh_misc.png\" width=\"80\" height=\"80\" /></p></td><td><p><br /><br />There is no cavebot problem if there are no caves on the server.</p></td></tr></tbody></table>"
+  },
+  {
     "title": "Store Outfit",
     "richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><br /><img src=\"https://otacademy.github.io/hints/mercenary.png\" width=\"51\" height=\"58\" /></p></td><td><p><br />The Mercenary carries a powerful, razor-sharp axe on his shoulders that effortlessly cuts through any armour and bone. Unless you buy this outfit on a mage character.</p></td></tr></tbody></table>"
   },
